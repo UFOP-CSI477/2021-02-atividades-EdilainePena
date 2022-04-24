@@ -1,35 +1,33 @@
 # **CSI606-2021-02 - Remoto - Proposta de Trabalho Final**
 
-## *Aluna(o): Princesa Leia (Luke Skywalker)*
-
---------------
-
-<!-- Descrever um resumo sobre o trabalho. -->
+## *Aluna(o): Edilaine Lucia Pena*
 
 ### Resumo
 
-  (Apresentar um breve resumo sobre o seu trabalho, indicando o contexto e as principais funcionalidades.)
-
-<!-- Apresentar o tema. -->
+  Este trabalho tem como objetivo a construção de um sistema Web para gestão de uma carteira de investimentos.
+  Sistemas deste tipo são amplamente utilizados por pessoas que operam nas bolsas de valores mundo afora e são de grande importância,
+  pois permitem que os usuários tenham maior controle sobre suas ações, assim como permite um melhor acompanhamento dos lucros e prejuízos
+  ao longo do tempo.
+  
 ### 1. Tema
 
-  O trabalho final tem como tema o desenvolvimento de ...
+  O trabalho tem como tema o gerenciamento de uma carteira de investimentos.
 
-<!-- Descrever e limitar o escopo da aplicação. -->
 ### 2. Escopo
 
-  Este projeto terá as seguintes funcionalidades...
+  O projeto contará com CRUD  das ações contidas na carteira, recomendação de ações, que deverão 
+  ser incluídas pelo Admin do sistema e acessadas pelos usuários "comuns". Por fim, o sistema gerará relatórios
+  (lucro e prejuízo) das operações. 
 
-<!-- Apresentar restrições de funcionalidades e de escopo. -->
 ### 3. Restrições
 
-  Neste trabalho não serão considerados ...
-
-<!-- Construir alguns protótipos para a aplicação, disponibilizá-los no Github e descrever o que foi considerado. //-->
+  Como restrição, podemos citar o fato de que o preço das ações sugeridas serão inseridos manualmente, sem consumo
+  de qualquer API ou BD externo. Tampóuco os dados serão verídicos.
+  
 ### 4. Protótipo
 
-  Protótipos para as páginas (descrever quais páginas) foram elaborados, e podem ser encontrados em...
-
+  Os protótipos podem ser encontrados em: https://www.figma.com/file/KufCPRQwaO0EToGnjPO2WQ?embed_host=share&kind=&node-id=0%3A1&viewer=1
+  
 ### 5. Referências
 
-  Referências podem ser incluídas, caso necessário. Utilize o padrão ABNT.
+  Por enquanto, não existem referências a serem mencionadas.
